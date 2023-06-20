@@ -83,40 +83,18 @@ author:
   name             : "Andrea Díaz-Barriga Yáñez, Ph.D."
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
-  location         : "Location"
-  employer         :
+  location         : "Lyon, France"
+  employer         : "Laboratoire d’Etude des Mécanismes Cognitifs / Université Lumière Lyon 2"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  personal email   : "a.diazbarrigay@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/andrea-diaz-barriga-yanez"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
+  twitter          : "@AndreaDBY"
+  
 # Reading Files
 include:
   - .htaccess

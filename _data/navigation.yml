@@ -3,17 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Academic Life"
     url: /talks/    
-    
-  - title: "Other"
-    url: /other/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+   -title: "Cool science stuff"
+    url: /sciencestuff/
+    
+   - title: "...Not everything is about academia"
+    url: /year-archive/
+    

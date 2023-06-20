@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Researcher"
   location         : "Lyon, France"
   employer         : "Laboratoire d’Etude des Mécanismes Cognitifs"
-  employer 2       : "Université Lumière Lyon 2"
+  eemployer        : "Université Lumière Lyon 2"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "a.diazbarrigay@gmail.com"
@@ -154,7 +154,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  science:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -188,10 +188,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _science
   - scope:
       path: ""
-      type: teaching
+      type: science
     values:
       layout: single
       author_profile: true

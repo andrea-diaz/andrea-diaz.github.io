@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
   location         : "Lyon, France"
-  employer         : "Laboratoire d’Etude des Mécanismes Cognitifs / Université Lumière Lyon 2"
+  employer         : "Laboratoire d’Etude des Mécanismes Cognitifs"
+  employer 2       : "Université Lumière Lyon 2"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  personal email   : "a.diazbarrigay@gmail.com"
+  email            : "a.diazbarrigay@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : 
   google_plus      :
@@ -154,13 +155,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

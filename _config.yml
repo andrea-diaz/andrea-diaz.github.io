@@ -85,7 +85,6 @@ author:
   bio              : "Postdoctoral Researcher"
   location         : "Lyon, France"
   employer         : "Université Lumière Lyon 2"
-  eemployer        : ""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "a.diazbarrigay@gmail.com"
@@ -154,9 +153,6 @@ kramdown:
 
 # Collections
 collections:
-  science:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -188,15 +184,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _science
-  - scope:
-      path: ""
-      type: science
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""

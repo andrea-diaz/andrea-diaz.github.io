@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrea Díaz-Barriga Yáñez"
+title                    : "Andrea Díaz-Barriga Yáñez, Ph.D."
 title_separator          : "-"
 name                     : &name "Andrea"
 description              : &description "Postdoctoral Researcher"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrea Díaz-Barriga Yáñez, Ph.D."
+  name             : "Andrea Díaz-Barriga Yáñez"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
   location         : "Lyon, France"

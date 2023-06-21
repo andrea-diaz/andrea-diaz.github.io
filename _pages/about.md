@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- ---
-<code style="color : purple"> Academic profile </code>
+---
+### Academic profile
 
 I am currently working as a postdoctoral researcher at the
 [Laboratoire d'Etude des Mécanismes Cognitifs](https://emc.univ-lyon2.fr/), in Lyon, France. Our project focuses on the cognitive and neural correlates of memory maintenance mechanisms.

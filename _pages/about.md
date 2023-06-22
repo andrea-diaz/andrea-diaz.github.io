@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## A little about my research journey. . .
+## A little bit about my research journey. . .
 
 I am currently working as a postdoctoral researcher at the
 [Laboratoire d'Etude des Mécanismes Cognitifs](https://emc.univ-lyon2.fr/), in Lyon, France. Our current project focuses on the cognitive and neural correlates of memory maintenance mechanisms. Specifically, what strategies do we use when we apply attentional refreshing to maintain information in working memory.

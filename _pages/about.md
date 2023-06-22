@@ -14,6 +14,6 @@ I am currently working as a postdoctoral researcher at the
 
 My research interests and background also cover other different topics in developmental cognitive psychology including: academic achievement, executive functions, and numerical cognition; with both behavioural and neuroimaging methods, in different age groups. 
 
-At first glance it may seem that I have been involved in projects that are unrelated to each other. . . but they are related! It's all about cognition and the processes behind our learning abilities. 
+At first glance it may seem that I have been involved in projects that are unrelated to each other...but they are related! It's all about cognition and the processes behind our learning abilities. 
 
 What I have enjoyed most about my research trajectory is that it has allowed me to work and live in Mexico (where I am from), the UK, and France. Needless to say that, eventhought it has been a great challenge, this has provided me with different tools usefull for research and life in general.

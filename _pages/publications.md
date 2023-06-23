@@ -15,6 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>¤</sup> UCOM consortium
-<br>
-<sup>*</sup> PROFAN consortium

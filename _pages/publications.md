@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "<b style=color:"#0e6d80"> Publications"
 permalink: /publications/
 author_profile: true
 ---

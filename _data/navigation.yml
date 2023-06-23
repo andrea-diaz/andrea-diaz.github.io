@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "Miscellaneous"
-    url: /miscellaneous/
+    url: /posts/
 
   - title: "CV"
     url: /cv/

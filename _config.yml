@@ -160,9 +160,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  miscellaneous:
-   output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

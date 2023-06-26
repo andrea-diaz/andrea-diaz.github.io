@@ -6,10 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Andrea Díaz-Barriga Yáñez, Ph.D."
+locale                   : "en-GB"
+title                    : "Andrea Díaz-Barriga Yáñez"
 title_separator          : "|"
-name                     : &name "Andrea"
+subtitle                 : "Ph.D."
+name                     : &name "Andrea Díaz-Barriga Yáñez"
 description              : &description "Postdoctoral Researcher"
 url                      : https://andrea-diaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,11 +90,11 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "a.diazbarrigay@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Andrea-Diaz-Barriga-Yanez"
   github           : 
   google_plus      :
   linkedin         : andreaDBY
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5884-8966"
   twitter          : "@AndreaDBY"
   
 # Reading Files

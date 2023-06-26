@@ -282,8 +282,12 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+  
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
 }
-
 
 /*
    Navicons
@@ -437,8 +441,8 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
+ color: $link-color;
+  text-decoration: none !important;
 }
 
 .footnotes {

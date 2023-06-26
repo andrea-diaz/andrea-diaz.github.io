@@ -232,12 +232,7 @@ body:hover .visually-hidden button {
   .fa-linkedin-square {
     color: $linkedin-color;
   }
-
-  .fa-researchgate,
-  .fa-researchgate-square {
-    color: $researchgate-color;
-  }
-   
+  
   .fa-pinterest,
   .fa-pinterest-p,
   .fa-pinterest-square {
@@ -291,6 +286,11 @@ body:hover .visually-hidden button {
   .ai-orcid,
   .ai-orcid-square {
     color: $orcid-color;
+  }
+   
+  .ai-researchgate,
+  .ai-researchgate-square {
+    color: $researchgate-color;
   }
 }
 

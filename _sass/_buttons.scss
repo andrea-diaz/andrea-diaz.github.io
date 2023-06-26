@@ -124,14 +124,14 @@
   (linkedin, $linkedin-color);
 
   @each $socialnetwork, $color in $social {
-    &--#{$socialnetwork} {
-       color: #fff;
-       background-color: $color;
-        border: 0 ;
+     &--#{$socialnetwork} {
+      color: #fff !important;
+      background-color: $color !important;
+      border: 0 !important;
 
       &:hover {
-        color: #fff;
-        background-color: mix(#000, $color, 20%);
+        color: #fff !important;
+        background-color: mix(#000, $color, 20%) !important;
       }
     }
   }

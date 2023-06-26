@@ -86,7 +86,7 @@
 
   img {
     max-width: 200px;
-    border-radius: 70%;
+    border-radius: 100%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -112,6 +112,7 @@
 
 .author__name {
   margin: 0;
+  font-color: #076469;
 
   @include breakpoint($large) {
     margin-top: 10px;

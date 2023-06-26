@@ -76,7 +76,7 @@
   margin-right: auto;
   width: 76px;
  //  set width only, for non-square avatars
-  // height: 40px;
+  height: 76px;
 
   @include breakpoint($large) {
     display: block;
@@ -85,8 +85,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 70%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -125,6 +125,9 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
+  font-color: #076469;
 
   @include breakpoint($large) {
     margin-top: 10px;

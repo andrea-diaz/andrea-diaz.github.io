@@ -12,7 +12,7 @@ redirect_from:
 I am currently working as a postdoctoral researcher at the
 [Laboratoire d'Etude des Mécanismes Cognitifs](https://emc.univ-lyon2.fr/), in Lyon, France. Our current project focuses on the cognitive and neural correlates of memory maintenance mechanisms. Specifically, what strategies do we use when we apply attentional refreshing to maintain information in working memory.
 
-## It's all about cognition and the building blocks of learning... 
+## <b style="color:#2f1752">It's all about cognition and the building blocks of learning...</b> 
 
 My research interests and background also cover other different topics in developmental cognitive psychology including: academic achievement, executive functions, and numerical cognition; with both behavioural and neuroimaging methods, in different age groups. 
 

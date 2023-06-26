@@ -1,4 +1,9 @@
 ---
+permalink: /miscellaneous/
+title: "Miscellaneous"
+---
+
+---
 title: 'The myth of the gendered brain'
 date: 2019-02-24
 permalink: https://www.theguardian.com/science/2019/feb/24/meet-the-neuroscientist-shattering-the-myth-of-the-gendered-brain-gina-rippon?fbclid=IwAR3WNq3P6XzXDS64jshVfo7D7MhAFPxCvcCQgr2LXQYAOJVH-L5lJHZzHTQ

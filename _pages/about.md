@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "¡Hola!"
+title: ""
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,7 @@ redirect_from:
 
 # <b style="color: #15797d"> About me </b> 
 
-I am currently working as a postdoctoral researcher at the
-[Laboratoire d'Etude des Mécanismes Cognitifs](https://emc.univ-lyon2.fr/), in Lyon, France. 
+<b style="color: #580d5e">¡Hola! </b>  Welcome to my personal website. I am currently working as a postdoctoral researcher at the [Laboratoire d'Etude des Mécanismes Cognitifs](https://emc.univ-lyon2.fr/), in Lyon, France. 
 
 Our current project focuses on the cognitive and neural correlates of memory maintenance mechanisms. Specifically, what strategies do we use when we apply attentional refreshing to maintain information in working memory.
 

@@ -6,5 +6,9 @@ author_profile: true
 ---
 <style> body {text-align: justify} </style> 
 
+{% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single-paper.html %}
+{% endfor %}
 

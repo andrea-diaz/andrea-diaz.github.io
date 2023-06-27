@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<style> body {text-align: justify} </style> 
+<p style="text-align:left"> body </p>
 
 ---
 

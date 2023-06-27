@@ -13,7 +13,7 @@ permalink: /miscellaneous/
 ### So now that we are on the same page, here you will find <i>bits and bobs</i> of information (and their related links) that I consider relevant and interesting. <b style="color:#b30760"> Have a nice read !</b>
 
 
-#### <b style="color:#2f1752">"The myth of the gendered brain"</b>
+### <b style="color:#2f1752">"The myth of the gendered brain"</b>
 
 <b style="color:#2f1752"> It is time to abandon the very old-reductionist search for the differences between male and female brains</b>
 

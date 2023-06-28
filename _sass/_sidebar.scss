@@ -129,7 +129,7 @@
 .author__bio {
   margin: 0;
   font-size: 0.9em;
-  font-style: italic;
+  font-style: bold;
   font-color: #076469;
 
   @include breakpoint($large) {

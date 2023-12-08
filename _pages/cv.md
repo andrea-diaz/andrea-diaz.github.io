@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-## You can download a copy of my CV [here](/files/CV2023-Short_AndreaDBY.pdf).
+## You can download a copy of my CV [here](/files/Short de CV2023 Andrea Díaz-Barriga Yáñez.pdf).

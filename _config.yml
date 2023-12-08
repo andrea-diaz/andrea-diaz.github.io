@@ -11,7 +11,7 @@ title                    : "AndreaDBY"
 title_separator          : "|"
 subtitle                 : "Ph.D."
 name                     : &name "AndreaDBY"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Researcher"
 url                      : https://andrea-diaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrea-diaz/andrea-diaz.github.io"
@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Andrea Díaz-Barriga Yáñez, Ph.D."
   avatar           : "profile2.jpg"
-  bio              : "Postdoctoral Researcher"
+  bio              : "Researcher"
   location         : "France"
-  employer         : "Université Lumière Lyon 2"
+  employer         :
   email            : "a.diazbarrigay@gmail.com"
   github           : 
   linkedin         : andreaDBY

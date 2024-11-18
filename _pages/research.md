@@ -6,7 +6,8 @@ permalink: /research/
 ### <b style="color:#6e096e">Exploring the neural correlates of attentional refreshing</b> <b style="color:#1da1ab">(2021-Present)</b>
 Laboratoire d’Etudes des Mécanismes Cognitifs, Bron, France
 PI. Dr Gaën Plancher
-
+  ## <b style="color:#6e096e">Take a look at this this comic book based on this project !</b> <b style="color:#1da1ab">(2021-Present)</b> [here](/files/x.pdf).
+  
 ### <b style="color:#6e096e">Can distractors under the threshold of consciousness lead to forgetting in working memory?</b> <b style="color:#1da1ab">(2021-Present)</b>
 Laboratoire d’Etudes des Mécanismes Cognitifs, Bron, France
 PI. Dr Gaën Plancher

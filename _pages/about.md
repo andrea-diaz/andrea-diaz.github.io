@@ -12,7 +12,7 @@ redirect_from:
 
 <b style="color: #580d5e">¡Hola! </b>  Welcome to my personal website. 
 
-I am a researcher in cognitive neuropsychology currently working at <b> The Neuro </b> (Montreal Neurological Institute-Hospital) in Montreal, Canada.
+I am a researcher in cognitive neuropsychology currently living in Montreal, Canada.
 I am a person driven by an insatiable curiosity and a passion for acquiring knowledge.
 
 ## <b style="color:#580d5e">It's all about cognition and the building blocks of learning...</b> 

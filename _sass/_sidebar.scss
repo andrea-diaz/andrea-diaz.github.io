@@ -88,7 +88,7 @@
   img {
     aspect-ratio: 1 / 1; 
     width: 100%;
-    max-width: 110px;
+    max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {
